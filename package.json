@@ -1,0 +1,21 @@
+{
+  "name": "krishna",
+  "version": "3.5.2",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Krishnaverma61.github.io/converter",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "AP"
+  },
+  "description": ""
+}
